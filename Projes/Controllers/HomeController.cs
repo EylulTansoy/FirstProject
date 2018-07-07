@@ -15,7 +15,7 @@ namespace Projes.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your deneme123124e.";
 
             return View();
         }
